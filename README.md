@@ -16,28 +16,13 @@ My journey in statistics has ignited a passion for data science and analysis. I 
 |       | |
 |    | |
 |                  | |
-|  | |
-
-## Tools
-
-### Network
-<div>
-  
-</div>
-
-### Endpoint
-<div>
-
-</div>
-
-### SIEM
-<div>
-   
-</div>
+|  | | 
 
 ## Certifications
 <div>
-
+<img src="https://img.shields.io/badge/IBM-Data%20Analyst-blue?style=for-the-badge&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/Mathematics%20for%20ML%20&%20Data%20Science-orange?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel%2FVBA%20for%20Creative%20Problem%20Solving-green?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div>
 
 ## Projects
