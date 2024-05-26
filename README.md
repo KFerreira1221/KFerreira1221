@@ -11,12 +11,11 @@ My journey in statistics has ignited a passion for data science and analysis. I 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|       | <a href="https://google.com"></a>|
-|  | <a href="https://google.com"></a>|
-|       | |
-|    | |
-|                  | |
-|  | | 
+|  R Studio     | <a href="https://kferreira1221.github.io/PortfolioWebsite/">Countries Depression</a> |
+| SQL | <a href="https://kferreira1221.github.io/PortfolioWebsite/">Countries Depression</a> |
+|    Python   | <a href="https://kferreira1221.github.io/PortfolioWebsite/">Countries Depression</a> |
+|  Excel  | <a href="https://kferreira1221.github.io/PortfolioWebsite/">Countries Depression</a> |
+|  Tableau | <a href="https://kferreira1221.github.io/PortfolioWebsite/">Countries Depression</a> |
 
 ## Certifications
 <div>
@@ -26,3 +25,4 @@ My journey in statistics has ignited a passion for data science and analysis. I 
 </div>
 
 ## Projects
+Countries Depression
