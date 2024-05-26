@@ -11,11 +11,18 @@ My journey in statistics has ignited a passion for data science and analysis. I 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|  R Studio     | <a href="https://kferreira1221.github.io/PortfolioWebsite/">Countries Depression</a> |
+|  R     | <a href="https://kferreira1221.github.io/PortfolioWebsite/">Countries Depression</a> |
 | SQL | <a href="https://kferreira1221.github.io/PortfolioWebsite/">Countries Depression</a> |
 |    Python   | <a href="https://kferreira1221.github.io/PortfolioWebsite/">Countries Depression</a> |
 |  Excel  | <a href="https://kferreira1221.github.io/PortfolioWebsite/">Countries Depression</a> |
 |  Tableau | <a href="https://kferreira1221.github.io/PortfolioWebsite/">Countries Depression</a> |
+
+## Tools
+<img src="https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=sql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-orange?style=for-the-badge&logo=tableau&logoColor=white" />
 
 ## Certifications
 <div>
