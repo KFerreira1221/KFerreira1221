@@ -16,6 +16,7 @@ My journey in statistics has ignited a passion for data science and analysis. I 
 |    Python   | <a href="https://kferreira1221.github.io/PortfolioWebsite/">Countries Depression</a> |
 |  Excel  | <a href="https://kferreira1221.github.io/PortfolioWebsite/">Countries Depression</a> |
 |  Tableau | <a href="https://kferreira1221.github.io/PortfolioWebsite/">Countries Depression</a> |
+|  Machine Learning | <a href="https://github.com/KFerreira1221/MachineLearning/blob/main/MachineLearning.ipynb">Machine Learning/a> |
 
 ## Tools
 <img src="https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r&logoColor=white" />
